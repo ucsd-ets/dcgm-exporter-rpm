@@ -1,5 +1,0 @@
-[localrepo]
-name=mylocalrepo
-baseurl=http://0.0.0.0/repos/CentOS/6/5/Packages
-enabled=1
-gpgcheck=0
